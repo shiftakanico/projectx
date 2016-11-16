@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+}
+.baner, .stopka{
+    color: white;
+    background-color: #3B85AA;
+    padding: 10px;
+    text-align: center;
+    font-family: arial;
+}
+.panel_lewy {
+    height: 450px;
+        width: 80%;
+    text-align: center;
+float: left;
+}
+.panel_prawy {
+    color: white;
+    width: 20%;
+    height: 450px;
+    float: left;
+    background-color: #4E9BB5;
+   
+}
+a {
+    color: white;
+}
+.stopka {
+    clear: both;
+}
